@@ -1,0 +1,50 @@
+:root{
+    /* bg colors */
+    --bg-primary-color : rgb(17,17,17);
+    --bg-secondary-color:rgb(29, 29, 29);
+    --bg-active-color:rgb(233,233,233);
+
+
+    /* text colors */
+    --text-primary-color:rgb(255,255,255);
+    --text-secondary-color:rgb(200,200,200);
+    --text-teritory-color:rgb(150,150,150);
+    --text-active-color:rgb(24, 24, 24);
+
+    /* paddings */
+    --padding-sm:.5rem;
+    --padding-md:1rem;
+    --padding-lg:1.5rem;
+    --padding-xl:2rem;
+    --padding-2xl:3rem;
+
+    /* gutters */
+    --gutter-sm:.5rem;
+    --gutter-md:1rem;
+    --gutter-lg:1.5rem;
+    --gutter-xl:2rem;
+    --gutter-2xl:3rem;
+
+    /* margin */
+    --margin-sm:.5rem;
+    --margin-md:1rem;
+    --margin-lg:1.5rem;
+    --margin-xl:2rem;
+    --margin-2xl:3rem;
+
+
+    /* font size */
+    --font-size-sm:.875rem;
+    --font-size-md:1rem;
+    --font-size-lg:1.125rem;
+    --font-size-xl:1.2rem;
+    --font-size-2xl:2rem
+
+    /* border radius */
+    --border-radius-sm:.2rem;
+    --border-radius-md:.35rem;
+    --border-radius:lg:.5rem;
+    --border-radius-xl:.6rem;
+    --border-radius-2xl:.8rem;
+
+}
