@@ -74,9 +74,7 @@ No additional setup required.
 ---
 
 ## 🌍 Live Demo
-
-🚀 **Try the live version here:**
-👉 [https://your-live-demo-link.com](https://your-live-demo-link.com)
+https://shoaibejaz512.github.io/Professional-Editing-Right-in-Your-Browser./
 
 Experience real-time photo editing directly in your browser without installing anything.
 
